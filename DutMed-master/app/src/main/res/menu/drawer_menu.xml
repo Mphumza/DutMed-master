@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+    </group>
+
+    <item android:title="@string/profile">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/profileFragment"
+                    android:icon="@drawable/ic_baseline_person_24_black"
+                    android:title="@string/profile" />
+
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/appointments">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_history"
+                    android:icon="@drawable/ic_history"
+                    android:title="@string/history" />
+                <item
+                    android:id="@+id/nav_appointment"
+                    android:icon="@drawable/ic_appointment"
+                    android:title="@string/appointment_booking" />
+
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/extras">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_symptom_checker"
+                    android:icon="@drawable/ic_clinic"
+                    android:title="@string/symptom_checker" />
+                <item
+                    android:id="@+id/nav_chatbot"
+                    android:icon="@drawable/chatbot"
+                    android:title="@string/chatbot" />
+
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/communication">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_feedback"
+                    android:icon="@drawable/ic_feedback"
+                    android:title="@string/feedback" />
+                <item
+                    android:id="@+id/nav_about"
+                    android:icon="@drawable/ic_info"
+                    android:title="@string/about" />
+
+            </group>
+        </menu>
+    </item>
+
+
+
+</menu>

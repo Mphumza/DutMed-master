@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Notify"
+        android:title="@string/SendNotification"
+        android:textColor="@color/black"
+        android:icon="@drawable/bell_icon"/>
+    <item
+        android:id="@+id/AdminDashboard"
+        android:title="@string/home"
+        android:textColor="@color/black"
+        android:icon="@drawable/home_admin"/>
+    <item
+        android:id="@+id/AdminLogout"
+        android:textColor="@color/black"
+        android:title="@string/logout"
+        android:icon="@drawable/admin_logout"/>
+</menu>

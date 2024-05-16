@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">DutMed</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="settings">Settings </string>
+    <string name="fragments_appointments">Appointments </string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="history">History</string>
+    <string name="appointment_booking">Appointment Booking</string>
+    <string name="health_topics">Health Topics</string>
+    <string name="chatbot">Chat W/ VIVI</string>
+    <string name="feedback">Feedback</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="logo_description">App Logo</string>
+    <string name="navigation_icon_description">Open navigation drawer</string>
+    <string name="search_icon_description">Search</string>
+    <string name="profile_image_description">User profile image</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="patient">Patient</string>
+    <string name="userRole_label">continue as:</string>
+    <string name="clinic_admin">Admin</string>
+    <string name="selected_role">None</string>
+    <string name="role_not_received">Role not received</string>
+    <string name="your_profile_image">your profile image</string>
+
+    <string name="query">Query</string>
+    <string name="prompt">Prompt</string>
+    <string name="chat_with_vivi">Chat w/ VIVI</string>
+    <string name="vivi_response">VIVI response goes here</string>
+    <string name="Admin_title">Welcome Admin</string>
+    <string name="the_admin_image_placeholder">the admin image</string>
+    <string name="view_appointments">View Appointments</string>
+    <string name="booking_history">Booking History</string>
+    <string name="manage_health_resources">Manage Health Resources</string>
+    <string name="admin_profile">Admin Profile</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="select_campus">Select Campus</string>
+    <string name="select_slot">Select Slot</string>
+    <string name="select_date">Select Date</string>
+    <string name="book_slot">Book Slot</string>
+    <string name="symptoms_checker">Symptom Checker</string>
+    <string name="symptom_checker">Symptom Checker</string>
+    <string name="profile">Profile</string>
+    <string name="appointments">Appointments</string>
+    <string name="extras">Extras</string>
+    <string name="communication">Communication</string>
+    <string name="menu_home">Home Page</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="allergies">Allergies</string>
+    <string name="current_treatments">Current Treatments</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="select">Select</string>
+    <string name="ritson">Ritson</string>
+    <string name="FamilyHealth">Family Health</string>
+    <string name="EmergencyHealth">Emergency Health</string>
+    <string name="ChildernHealth">Childern Health</string>
+    <string name="DietandNutrition">Diet and Nutrition</string>
+    <string name="refresh">Refresh</string>
+    <string name="campus">Campus</string>
+    <string name="Start">Start</string>
+    <string name="welcome_to_symptom_checker_message">Welcome to Symptom Checker</string>
+    <string name="confirm">Confirm</string>
+    <string name="enter_symptoms_here">Enter Symptoms:</string>
+    <string name="check_symptoms">Check Symptoms</string>
+    <string name="results_will_appear_here">Results:</string>
+    <string name="enter_subject">Enter Subject:</string>
+    <string name="enter_content">Enter Email Content:</string>
+    <string name="send_email">Send Email</string>
+    <string name="SendNotification">Send Notification</string>
+    <string name="image_url">Image URL</string>
+    <string name="type">Type</string>
+    <string name="content">Content</string>
+    <string name="title">Title</string>
+    <string name="add_resource">Add Resource</string>
+
+    <string-array name="campus_array">
+        <item>All Campuses</item>
+        <item>Steve Biko Campus</item>
+        <item>Ritson Campus</item>
+        <item>ML Sultan Campus</item>
+        <item>City Campus</item>
+    </string-array>
+</resources>

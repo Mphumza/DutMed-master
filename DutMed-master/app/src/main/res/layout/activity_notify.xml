@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Notify"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="@drawable/background2"
+    tools:context=".NotifyActivity">
+
+    <!-- EditText for Email Subject -->
+    <EditText
+        android:id="@+id/subject"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="@string/enter_subject"
+        android:background="@drawable/rounded_corner"
+        android:padding="18dp"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black" />
+
+    <!-- EditText for Email Content -->
+    <EditText
+        android:id="@+id/content"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="16dp"
+        android:hint="@string/enter_content"
+        android:background="@drawable/rounded_corner"
+        android:padding="18dp"
+        android:inputType="textMultiLine"
+        android:gravity="top"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:minLines="5"
+        android:scrollbars="vertical" />
+
+    <!-- EditText for Email -->
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="@string/email"
+        android:background="@drawable/rounded_corner"
+        android:padding="18dp"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black" />
+
+    <!-- Send Button -->
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/send_email"
+        android:background="@drawable/rounded_corner"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/dark_purple"
+        android:padding="18dp"/>
+</LinearLayout>

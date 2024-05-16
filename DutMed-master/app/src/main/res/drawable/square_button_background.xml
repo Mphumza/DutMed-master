@@ -1,0 +1,6 @@
+<!-- res/drawable/square_button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFC107"/> <!-- Background color -->
+    <corners android:radius="8dp"/> <!-- Rounded corners -->
+    <stroke android:color="#FFA000" android:width="2dp"/> <!-- Border color and width -->
+</shape>

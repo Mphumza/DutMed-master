@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--basic color-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_gray">#333333</color>
+
+    <!--primary color-->
+    <color name="light_purple2">#C199ED</color>
+    <color name="lighter_purple2">#B97FAF</color>
+
+    <!-- secondary color-->
+    <color name="launcher_bg">#9747FF</color>
+    <color name="pink">#DA0C81</color>
+    <color name="light_purple">#C273D6</color>
+    <color name="lighter_purple">#AA73D6</color>
+    <color name="dark_purple">#610C9F</color>
+    <color name="userMessageColor">#007AFF</color>
+    <color name="botMessageColor">#D50000</color>
+
+
+
+</resources>

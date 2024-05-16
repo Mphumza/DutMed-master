@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Admin_title">Welcome Admin</string>
+    <string name="the_admin_image_placeholder">the admin image</string>
+    <string name="view_appointments">View Appointments</string>
+    <string name="booking_history">Booking History</string>
+    <string name="manage_health_resources">Manage Health Resources</string>
+    <string name="logout">Logout</string>
+    <string name="select_campus">Select Campus</string>
+    <string name="select_slot">Select Slot</string>
+    <string name="select_date">Select Date</string>
+    <string name="book_slot">Book Slot</string>
+    <string name="symptoms_checker">Symptom Checker</string>
+    <string name="symptom_checker">Symptom Checker</string>
+    <string name="profile">Profile</string>
+    <string name="appointments">Appointments</string>
+    <string name="extras">Extras</string>
+    <string name="communication">Communication</string>
+    <string name="menu_home">Home Page</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="allergies">Allergies</string>
+    <string name="current_treatments">Current Treatments</string>
+    <string name="refresh">Refresh</string>
+    <string name="campus">Campus</string>
+    <string name="Start">Start</string>
+    <string name="welcome_to_symptom_checker_message">Welcome to Symptom Checker</string>
+    <string name="confirm">Confirm</string>
+    <string name="enter_symptoms_here">Enter Symptoms:</string>
+    <string name="check_symptoms">Check Symptoms</string>
+    <string name="results_will_appear_here">Results:</string>
+    <string name="enter_subject">Enter Subject:</string>
+    <string name="enter_content">Enter Email Content:</string>
+    <string name="send_email">Send Email</string>
+    <string name="SendNotification">Send Notification</string>
+</resources>
