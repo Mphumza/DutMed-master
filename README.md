@@ -99,7 +99,7 @@ Integration with DUT Student Health Records.
 
 📩 Contact & Acknowledgment
 
-This was a fun and challenging project developed by my team and I at Durban University of Technology. Huge thanks to my team for the hard work! 🤝
+This was a fun and challenging project developed by my team and I at Durban University of Technology. Huge thanks to my team(David Ngeleka , Mphumeleli Ngema, Ndumiso Buthelezi, Mandisa Visagie, Kwanele Mazibuko, Tyron Blankenberg) for the hard work! 🤝
 
 For inquiries or collaboration, reach out at mphumelelingema@icloud.com / 0813993372.
 
